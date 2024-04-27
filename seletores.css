@@ -1,0 +1,21 @@
+a{
+    color: chocolate;
+}
+a:hover{
+    color: aqua;
+}
+p{
+    font-family: 'Arial';
+}
+h1 + p {
+    font-weight: bold;
+}
+.destaque{
+    font-family: Arial;
+}
+p.destaque{
+    font-weight: bold;
+}
+strong.destaque{
+    color: red;
+}
